@@ -1,2 +1,2 @@
 # djangoprac
-This project is to just get familiar with Django framework
+Getting familiarised with Django framework
